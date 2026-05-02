@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "id": "civil-works",
+      "title": "Civil Works",
+      "icon": "🏗️",
+      "popular": true,
+      "services": [
+        { "name": "Demolish & Alterations", "description": "Structural changes and removals" },
+        { "name": "Bathroom & House Renovation", "description": "Complete renovation solutions" },
+        { "name": "Ceiling Plastering", "description": "Smooth ceiling finishes" },
+        { "name": "Wall Crack Plastering", "description": "Crack repair works" },
+        { "name": "Compound Wall Renovation", "description": "Boundary wall repair & rebuild" },
+        { "name": "Sump & Chamber Plate Changes", "description": "Concrete cover replacements" },
+        { "name": "Ramp Works", "description": "Vehicle and access ramps" },
+        { "name": "Door & Window Frame Fixing", "description": "Frame installation works" },
+        { "name": "Flooring on Slab", "description": "Top slab flooring works" },
+        { "name": "Outdoor Flooring", "description": "External flooring solutions" },
+        { "name": "Cement Shelf Works", "description": "Custom cement shelves" },
+        { "name": "White Cement Works", "description": "Finishing and touch-ups" },
+        { "name": "All Cement Related Works", "description": "General civil cement works" },
+        { "name": "Other Civil Works", "description": "Custom civil requirements" }
+      ]
+    },
+    {
+      "id": "electrical",
+      "title": "Electrical",
+      "icon": "⚡",
+      "popular": false,
+      "services": [
+        { "name": "House Wiring (Old to New)", "description": "Complete rewiring" },
+        { "name": "POP Wiring", "description": "Concealed wiring" },
+        { "name": "New Switch Points", "description": "Switch installation" },
+        { "name": "Switch Board Changing", "description": "Board replacement" },
+        { "name": "Light Holder Changing", "description": "Fixture replacement" },
+        { "name": "Earth Connection", "description": "Safety grounding" },
+        { "name": "Inverter Wiring", "description": "Power backup wiring" },
+        { "name": "Inverter Repair", "description": "Backup repair" },
+        { "name": "Distilled Water Change", "description": "Battery maintenance" },
+        { "name": "AC Points & Fitting", "description": "AC electrical setup" },
+        { "name": "Electric Geyser Fitting", "description": "Water heater setup" },
+        { "name": "Chimney & RO Points", "description": "Kitchen appliances" },
+        { "name": "Kitchen Exhaust Fan", "description": "Ventilation fitting" },
+        { "name": "Bathroom Exhaust Fan", "description": "Air circulation" },
+        { "name": "Surface Lights", "description": "Lighting installation" },
+        { "name": "POP Lights", "description": "False ceiling lights" },
+        { "name": "Profile Lights", "description": "Modern lighting" }
+      ]
+    },
+    {
+      "id": "plumbing",
+      "title": "Plumbing",
+      "icon": "🔧",
+      "popular": false,
+      "services": [
+        { "name": "Bathroom Pipeline Changing", "description": "Pipeline replacement" },
+        { "name": "Pipeline Leakage & Block", "description": "Leak fixing" },
+        { "name": "Drainage Block Issues", "description": "Drain cleaning" },
+        { "name": "Rainwater Pipe Issues", "description": "Rainwater flow repair" },
+        { "name": "Chamber Blocking", "description": "Chamber cleaning" },
+        { "name": "Kitchen Sink Block & Leakage", "description": "Sink repair" },
+        { "name": "Tap & Shower Changing", "description": "Fixture replacement" },
+        { "name": "Tap & Shower Leakage", "description": "Leak repairs" },
+        { "name": "Bathroom Commode Changing", "description": "Sanitary upgrade" },
+        { "name": "Indian to Western Commode", "description": "Toilet conversion" },
+        { "name": "Overhead Tank Leakage", "description": "Tank repair" },
+        { "name": "Pipeline Cleaning", "description": "Internal cleaning" },
+        { "name": "Sump Leakage", "description": "Waterproof repairs" },
+        { "name": "Filter Bed Works", "description": "Water filtration setup" },
+        { "name": "Soak Pit Works", "description": "Drainage pit construction" },
+        { "name": "Motor & Monoblock Issues", "description": "Pump repair" },
+        { "name": "Auto Cutoff for Sump", "description": "Water level automation" },
+        { "name": "Pressure Pump Installation", "description": "Water pressure system" },
+        { "name": "Overhead Tank Changing", "description": "Water tank replacement" }
+      ]
+    },
+    {
+      "id": "carpentry",
+      "title": "Carpentry",
+      "icon": "🪚",
+      "popular": false,
+      "services": [
+        { "name": "Kitchen & Bedroom Woodwork", "description": "Custom furniture works" },
+        { "name": "TV Unit Woodwork", "description": "Entertainment unit design" },
+        { "name": "Showroom Woodwork", "description": "Commercial interiors" },
+        { "name": "Shop Woodwork", "description": "Retail fittings" },
+        { "name": "Wood Alterations", "description": "Modification works" },
+        { "name": "Wood / Aluminium Partitions", "description": "Space partitioning" },
+        { "name": "Sliding Window Conversion", "description": "Modern window systems" },
+        { "name": "Door & Window Alterations", "description": "Structural changes" },
+        { "name": "Glass for Windows & Doors", "description": "Glass fitting" },
+        { "name": "Broken Glass Replacement", "description": "Glass repair" },
+        { "name": "Plywood Shoe Racks", "description": "Custom racks" },
+        { "name": "Sliding Mesh for Main Door", "description": "Mosquito protection" },
+        { "name": "Safety Door Mesh", "description": "Security mesh" },
+        { "name": "Bathroom Window Mesh", "description": "Vent mesh installation" },
+        { "name": "Curtain Rods", "description": "Rod fixing" },
+        { "name": "Wallpapers & Wall Panelling", "description": "Interior décor" },
+        { "name": "Window Blinds", "description": "Blind installation" },
+        { "name": "Nails for Photo Frames", "description": "Wall mounting" },
+        { "name": "UPVC Exhaust Fan Frame for Bathroom", "description": "Exhaust fan frame installation" }
+      ]
+    },
+    {
+      "id": "tiles-granite",
+      "title": "Tiles & Granite",
+      "icon": "🪨",
+      "popular": false,
+      "services": [
+        { "name": "Floor Tiles / Granite Changing", "description": "Replacement flooring" },
+        { "name": "Tiles / Granite Polish", "description": "Surface shine restoration" },
+        { "name": "Bathroom, Kitchen & Pooja Tiles", "description": "Interior tile installation" },
+        { "name": "Bathroom Flooring Tiles", "description": "Anti-slip flooring" },
+        { "name": "Kitchen Platform Granite", "description": "Granite slab replacement" },
+        { "name": "Steps Granite / Tiles", "description": "Staircase works" },
+        { "name": "Granite for Windows", "description": "Window sill granite" },
+        { "name": "Kitchen Granite Leakage Fix", "description": "Water seepage repair" },
+        { "name": "Sink Change (Granite to Steel)", "description": "Modern sink upgrade" },
+        { "name": "Elevation Tiles Work", "description": "Exterior tile design" },
+        { "name": "Parking & Balcony Tiles", "description": "Outdoor tiling" },
+        { "name": "White Cement for Tile Joints", "description": "Tile joint filling" },
+        { "name": "Epoxy for Tile Joints", "description": "Durable joint sealing" },
+        { "name": "Epoxy for Pipe Areas", "description": "Waterproof sealing" }
+      ]
+    },
+    {
+      "id": "welding-works",
+      "title": "Welding (Iron) Works",
+      "icon": "⚒️",
+      "popular": false,
+      "services": [
+        { "name": "Welding Works", "description": "Professional welding services" },
+        { "name": "Main Gate Welding Patch Works", "description": "Gate repair welding" },
+        { "name": "Iron Grill Frames for Windows", "description": "Window safety grilles" },
+        { "name": "Safety Iron Door for Main Door", "description": "Security door installation" },
+        { "name": "Pergola Works on Balcony", "description": "Balcony pergola structures" },
+        { "name": "Sliding Door Alterations", "description": "Sliding door modifications" },
+        { "name": "Grease Apply for Sliding Gate Track", "description": "Gate track maintenance" },
+        { "name": "Safety Mesh Works Around House", "description": "Perimeter safety mesh" },
+        { "name": "Safety Mesh Work Around Plants", "description": "Plant protection mesh" },
+        { "name": "Grill Works for Outside Cylinders", "description": "Cylinder protection grilles" },
+        { "name": "Hangers for Washed Clothes Drying", "description": "Clothesline hangers" },
+        { "name": "Iron Stands to Keep Plants Pots", "description": "Plant pot stands" },
+        { "name": "Iron Steel and Glass for Staircase Railing", "description": "Staircase rail systems" },
+        { "name": "Iron and Glass for Elevation", "description": "Facade cladding" },
+        { "name": "Upstairs Iron Steps", "description": "Iron staircase installation" }
+      ]
+    },
+    {
+      "id": "painting",
+      "title": "Painting",
+      "icon": "🎨",
+      "popular": true,
+      "services": [
+        { "name": "Total House Repainting", "description": "Complete repaint service" },
+        { "name": "Ceiling & Wall Painting", "description": "Interior painting" },
+        { "name": "Damp Proof Paint", "description": "Moisture protection" },
+        { "name": "Cooling Paint (Slab)", "description": "Heat reduction coating" },
+        { "name": "Sump Damp Guard Paint", "description": "Water tank protection" },
+        { "name": "Wall Damp Guard", "description": "Anti-damp coating" },
+        { "name": "Iron Grill & Safety Door Paint", "description": "Metal painting" },
+        { "name": "Gate & Deco Painting", "description": "Exterior decorative painting" },
+        { "name": "Main Door Polish", "description": "Wood finish polish" },
+        { "name": "Wooden Window Polish", "description": "Window refinishing" },
+        { "name": "POP Polish", "description": "False ceiling finish" },
+        { "name": "DECO polish OR VERNIER polish", "description": "Decorative polish finishing" },
+        { "name": "Royal Play Designs", "description": "Texture paint designs" },
+        { "name": "Paint Touch-ups", "description": "Minor paint corrections" },
+        { "name": "All Painting Works", "description": "Complete painting solutions" }
+      ]
+    },
+    {
+      "id": "other-services",
+      "title": "Other Services",
+      "icon": "🏠",
+      "popular": false,
+      "services": [
+        { "name": "POP Works", "description": "False ceiling works" },
+        { "name": "House Cleaning", "description": "Deep cleaning" },
+        { "name": "House Keeping", "description": "Regular maintenance" },
+        { "name": "House Shifting", "description": "Relocation support" },
+        { "name": "Bathroom Cleaning", "description": "Hygienic cleaning" },
+        { "name": "Gardening", "description": "Garden maintenance" },
+        { "name": "Site Cleaning", "description": "Post-work cleanup" },
+        { "name": "JCB Works", "description": "Earth moving services" },
+        { "name": "Chimney / AC / Gas Holes", "description": "Wall core cutting" },
+        { "name": "Sump & Overhead Tank Cleaning", "description": "Water tank cleaning" },
+        { "name": "Septic Tank Cleaning", "description": "Waste management" }
+      ]
+    }
+  ]
+}
