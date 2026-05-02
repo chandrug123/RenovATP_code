@@ -73,7 +73,7 @@ const Contact = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "Hyderabad, India",
+      value: "Anantapur, Andhra Pradesh",
       href: null
     },
     {
